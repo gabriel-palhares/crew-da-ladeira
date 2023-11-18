@@ -1,4 +1,6 @@
 ### Crew da Ladeira
 ----
 
-IP
+In progress.
+- Acertar design
+- Fazer modelagem

@@ -2,5 +2,7 @@
 ----
 
 In progress.
-- Acertar design
-- Fazer modelagem
+- Design
+- Modelagem
+- Code
+
